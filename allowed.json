@@ -1,1 +1,10 @@
 
+{
+  "allowed_devices": ["DEVICE-AB12CD", "DEVICE-EF34GH", "DEVICE-XY56ZZ"],
+  "status": "online",
+  "note": {
+    "DEVICE-AB12CD": "REZA PHONE 1",
+    "DEVICE-EF34GH": "REZA PHONE 2", 
+    "DEVICE-XY56ZZ": "SAGOR PHONE"
+  }
+}
